@@ -690,7 +690,8 @@ performed, as well as modify the page or its layout, causing another round of
 page rendering and painting.
 
 Browser extensions and add-ons
--------------
+------------------------------
+
 Browser extensions and add-ons are software programs that users can install to customize and enhance their browsing experience. They typically integrate with the browser to provide additional features, functionality, or customization options beyond what the browser offers by default.
 
 .. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
